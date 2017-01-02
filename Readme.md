@@ -7,15 +7,15 @@ can be used for later analysis. You will be graded by your peers on a
 series of yes/no questions related to the project. You will be required
 to submit.
 
--   1.  a tidy data set as described below.
--   1.  a link to a Github repository with your script for performing
-        the analysis.
--   1.  a code book that describes the variables, the data, and any
-        transformations or work that you performed to clean up the data
-        called CodeBook.md.
--   1.  You should also include a README.md in the repo with
-        your scripts. This repo explains how all of the scripts work and
-        how they are connected.
+-   a tidy data set as described below.
+-   a link to a Github repository with your script for performing
+    the analysis.
+-   a code book that describes the variables, the data, and any
+    transformations or work that you performed to clean up the data
+    called CodeBook.md.
+-   You should also include a README.md in the repo with your scripts.
+    This repo explains how all of the scripts work and how they
+    are connected.
 
 One of the most exciting areas in all of data science right now is
 wearable computing - see for example this article . Companies like
@@ -33,13 +33,12 @@ Here are the data for the project:
 
 The R script called run\_analysis.R does the following.
 
--   1.  Download the datasets needed
--   1.  Merges the training and the test sets to create one data set.
--   1.  Extracts only the measurements on the mean and standard
-        deviation for each measurement.
--   1.  Uses descriptive activity names to name the activities in the
-        data set
--   1.  Appropriately labels the data set with descriptive
-        variable names.
--   1.  Create a tidy dataset consists of the average (mean) value of
-        each variable for each subject and activity pair.
+-   Download the datasets needed
+-   Merges the training and the test sets to create one data set.
+-   Extracts only the measurements on the mean and standard deviation
+    for each measurement.
+-   Uses descriptive activity names to name the activities in the data
+    set
+-   Appropriately labels the data set with descriptive variable names.
+-   Create a tidy dataset consists of the average (mean) value of each
+    variable for each subject and activity pair.
